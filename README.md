@@ -271,19 +271,17 @@ Enable debug mode by adding `?debug=true` to the URL for detailed logging.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Meta AI** for the DINOv2 vision transformer
 - **Streamlit** for the amazing web framework
 - **PyTorch** team for the deep learning tools
 - **Instagram** for layout inspiration
 
-## 📞 Contact & Support
+## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
+- **Author**: Siddharth Trivedi
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
 
 ## 🚀 Roadmap
 
@@ -291,7 +289,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Batch Upload**: Process multiple image sets simultaneously
 - [ ] **Style Transfer**: Apply artistic filters to enhance coherence
 - [ ] **Social Integration**: Direct posting to Instagram
-- [ ] **Mobile App**: Native iOS/Android application
 - [ ] **API Endpoints**: RESTful API for developers
 
 ---
