@@ -281,7 +281,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Author**: Siddharth Trivedi
-- **LinkedIn**: [LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/siddharth-trivedi-dev/))
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/siddharth-trivedi-dev/))
 
 ## 🚀 Roadmap
 
